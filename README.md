@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm prisoner of Python</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media.giphy.com/media/6fL4ZqndWKpOM/giphy.gif](https://www.computerhope.com/issues/pictures/copy-and-paste.gif)">
 
 - 🔭 I’m currently working on [Chess 2](ihavenomoneyforlink.com)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/bestportfolio](http://bit.ly/bestportfolio)
 
-- ⚡ Fun fact **Valorant is better thank Counter-strike 2**
+- ⚡ Fun fact **Valorant is better than Counter-strike 2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
